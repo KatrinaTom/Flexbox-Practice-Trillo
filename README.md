@@ -37,6 +37,9 @@ ____
 
 ## Screenshots
 
+**Initial gradient background**
+
+<img src="screenshots/inital_background.png" width="200" />
 
 ____
 
