@@ -20,3 +20,12 @@ ____
 
 ## Screenshots
 
+
+____
+
+## Learnings
+
+**Inital set up**
+* Review the package.json file for developer depencenies. Some of these were outdated. Found the latest version. 
+* Make a change in the main.scss file. the css/style.css file should reflect the changes if watch is working as expected.
+
