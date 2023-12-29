@@ -5,6 +5,7 @@ This project is the property of Jonas Schmedtmann. Original git repository: http
 Project is from Udemy Course: The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.
 
 Creating a git repository to practice and learn advanced CSS, especially Flexbox.
+Documenting the journey along the way to build muscle memory. 
 
 ## Project Overview
 
@@ -17,6 +18,22 @@ Creating a git repository to practice and learn advanced CSS, especially Flexbox
 2. ``npm run start``
 
 ____
+
+## Initial Project Architecture
+
+**Setting up scss files**
+* _components.scss
+* _base.scss
+* _layout.scss
+
+<img src="screenshots/architecture.png" width="200" />
+
+**Global Settings**
+
+<img src="screenshots/global.png" width="200" />
+
+* Working with rem, rather than pixels. 
+* Use of CSS Variables or custom properties.
 
 ## Screenshots
 
