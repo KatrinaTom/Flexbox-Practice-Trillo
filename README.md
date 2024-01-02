@@ -41,6 +41,18 @@ ____
 
 <img src="screenshots/inital_background.png" width="200" />
 
+
+**Adding in SVG Icons**
+
+<img src="screenshots/svg_icon.png" width="500" />
+
+**Header - Using flexbox**
+
+<img src="screenshots/header.png" width="500" />
+
+- Input field expands to 100% and changes colour to a darker grey
+- Hover on Bookmarks, Chat and User Image
+
 ____
 
 ## Learnings
