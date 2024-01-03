@@ -53,6 +53,13 @@ ____
 - Input field expands to 100% and changes colour to a darker grey
 - Hover on Bookmarks, Chat and User Image
 
+**Side Navigation & Hotel Overview**
+
+<img src="screenshots/hotel_overview.png" width="500" />
+
+- Animation on side navigation
+- Infinite pulsate keyframe on location button 
+
 ____
 
 ## Learnings
