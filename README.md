@@ -60,6 +60,23 @@ ____
 - Animation on side navigation
 - Infinite pulsate keyframe on location button 
 
+**Book Now Button**
+
+Button that changes on hover to display rooms available
+
+<img src="screenshots/cta_booknow.png" width="200" />
+<img src="screenshots/cta_rooms_left.png" width="200" />
+
+**Media Queries**
+
+Mobile Web 
+
+<img src="screenshots/mobile_web.png" width="200" />
+
+Desktop
+
+<img src="screenshots/desktop.png" width="500" />
+
 ____
 
 ## Learnings
