@@ -7,6 +7,8 @@ Project is from Udemy Course: The most advanced and modern CSS course on the int
 Creating a git repository to practice and learn advanced CSS, especially Flexbox.
 Documenting the journey along the way to build muscle memory. 
 
+This project was desktop first, then media queries added at the end in the _base.scss file. 
+
 ## Project Overview
 
 * Practice and improve Flexbox
